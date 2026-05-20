@@ -1,4 +1,4 @@
-# golf-web
+# projects
 
 This repository contains two related golf projects:
 
